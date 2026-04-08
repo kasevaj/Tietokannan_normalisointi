@@ -1,0 +1,376 @@
+Keskuksen nimi,Keskuksen perustamisvuosi,Hoitajan nimi,Eläin,Eläimen lempilelut,Eläimen ikä,Toimenpide,Toimenpiteen pvm,Hoitajan palkka,Eläimen kiinniottopaikka,Kiinniottopvm,Eläimen laji,Keskuksen osoite
+Tampereen pelastus,1918,Ninni,Kaarlo,[],2,Lääkkeen anto,28.6.2000,4640,Katu,4.1.1995,Koira,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Eazy,[],1,Leikkihetki,10.3.1976,3814,Roskis,15.2.1990,Koira,Keskusta 2
+Tampereen pelastus,1918,Ninni,Kaarlo,[],2,Lääkkeen anto,8.9.1984,4640,Katu,4.1.1995,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Kaapo,Kaarina,[],3,Leikkihetki,7.2.1999,1875,Sillanalus,26.8.1971,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Harju,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Lääkkeen anto,11.3.1990,4206,Katu,2.2.1997,Koira,Keskusta 2
+Raaseporin rescue,1983,Lauri,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Lääkkeen anto,11.3.1990,2420,Katu,2.2.1997,Koira,Keskusta 2
+Raaseporin rescue,1983,Harju,Eddi,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Piikitys,22.4.1980,4206,Sillanalus,26.3.1993,Undulaatti,Keskusta 2
+Raaseporin rescue,1983,Harju,Ecco,['Tennispallo'; 'Köysi'; 'Vinkulelu'],8,Tarkistus,5.3.1971,4206,Sillanalus,25.12.1973,Koira,Keskusta 2
+Raaseporin rescue,1983,Lauri,Kaarina,['Köysi'],8,Lääkkeen anto,25.5.1972,2420,Kauppakeskus,16.4.1986,Kissa,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Kadi,['Köysi'],3,Lääkkeen anto,7.2.2000,1633,Kauppakeskus,1.6.1996,Undulaatti,Tampereentie 5
+Turun RescueKeskus,1904,Eevertti,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,6.7.1970,1722,Roskis,26.10.1988,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Mirjami,Ecco,['Tennispallo'],4,Lääkkeen anto,26.5.1998,3111,None,None,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Kaabo,[],9,Lääkkeen anto,2.11.1991,4724,Katu,2.7.1982,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Harju,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Leikkihetki,8.7.2000,4206,Katu,2.2.1997,Koira,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Edge,[],10,Piikitys,20.4.1986,1875,Kauppakeskus,25.9.1971,Koira,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Ecco,[],7,Piikitys,3.9.1995,1875,Roskis,22.10.1975,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Lauri,Edge,['Tennispallo'; 'Köysi'; 'Vinkulelu'],4,Tarkistus,14.4.1982,3436,Roskis,28.1.1996,Koira,Tampereentie 5
+Raaseporin rescue,1983,Olli,Eddy,['Tennispallo'; 'Vinkulelu'],6,Lääkkeen anto,21.1.1970,3197,Kauppakeskus,13.8.1992,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Edgar,['Köysi'],4,Lääkkeen anto,26.3.1974,1785,Roskis,4.1.1999,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Matti,Kafu,['Tennispallo'; 'Vinkulelu'; 'Köysi'],8,Tarkistus,23.12.1982,2646,Roskis,18.9.1977,Kissa,Tampereentie 5
+Tampereen pelastus,1918,Ninni,Eddy,['Tennispallo'; 'Vinkulelu'],6,Leikkihetki,10.4.1970,4640,Kauppakeskus,13.8.1992,Undulaatti,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Edgar,['Köysi'],4,Tarkistus,7.3.1998,4724,Roskis,4.1.1999,Undulaatti,Tampereentie 5
+Turun RescueKeskus,1904,Lauri,Ecko,['Tennispallo'],2,Leikkihetki,7.2.1995,1662,Sillanalus,14.2.1993,Kissa,Pelastustie 4
+Raaseporin rescue,1983,Lauri,Kaapo,['Vinkulelu'],9,Lääkkeen anto,10.10.1996,2420,Sillanalus,7.2.1996,Koira,Keskusta 2
+Tampereen pelastus,1918,Lauri,Kaasu,['Vinkulelu'],8,Leikkihetki,12.7.1980,3436,Roskis,24.12.1970,Koira,Tampereentie 5
+Raaseporin rescue,1983,Lauri,Kaarina,['Köysi'],8,Lääkkeen anto,8.12.1979,2420,Kauppakeskus,16.4.1986,Kissa,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Leikkihetki,8.7.2000,1785,Katu,2.2.1997,Koira,Pelastustie 4
+Raaseporin rescue,1983,Olli,Eddie,['Tennispallo'; 'Vinkulelu'],8,Leikkihetki,21.6.1995,3197,Kauppakeskus,10.5.1979,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Ebba,[],8,Piikitys,2.1.1984,4724,None,None,Kissa,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Kaapo,['Vinkulelu'],9,Tarkistus,13.6.1998,1633,Sillanalus,7.2.1996,Koira,Tampereentie 5
+Raaseporin rescue,1983,Olli,Eddie,['Tennispallo'; 'Vinkulelu'],8,Piikitys,4.1.2000,3197,Kauppakeskus,10.5.1979,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Lauri,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,9.4.1996,1662,Roskis,19.6.1988,Koira,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Eddy,[],10,Piikitys,7.1.1976,1875,Sillanalus,27.11.1995,Koira,Pelastustie 4
+Raaseporin rescue,1983,Untamo,Ecco,[],10,Piikitys,9.7.1981,3814,Katu,13.5.1991,Kissa,Keskusta 2
+Turun RescueKeskus,1904,Eevertti,Kadet,['Vinkulelu'; 'Köysi'; 'Tennispallo'],8,Leikkihetki,17.1.1998,1722,Katu,8.4.1989,Kissa,Pelastustie 4
+Tampereen pelastus,1918,Lauri,Kaasu,['Vinkulelu'],8,Leikkihetki,14.10.1975,3436,Roskis,24.12.1970,Koira,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Ecco,[],10,Tarkistus,22.6.2000,3814,Katu,13.5.1991,Kissa,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Kafu,['Tennispallo'; 'Köysi'],7,Tarkistus,15.5.1993,1633,Kauppakeskus,15.4.1987,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Eazy,[],1,Leikkihetki,18.10.1978,3814,Roskis,15.2.1990,Koira,Keskusta 2
+Raaseporin rescue,1983,Olli,Eddi,['Tennispallo'; 'Köysi'; 'Vinkulelu'],3,Lääkkeen anto,13.12.1990,3197,Katu,4.12.1976,Koira,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Kaarina,[],3,Tarkistus,16.6.1996,1875,Sillanalus,26.8.1971,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Eevertti,Easy,['Tennispallo'; 'Vinkulelu'],5,Lääkkeen anto,23.8.1983,1722,Katu,7.5.1983,Kissa,Pelastustie 4
+Turun RescueKeskus,1904,Eevertti,Kadi,['Köysi'],3,Lääkkeen anto,4.8.1983,1722,Kauppakeskus,1.6.1996,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Kaarlo,['Vinkulelu'; 'Tennispallo'],1,Tarkistus,3.12.1997,1875,Sillanalus,28.6.1980,Koira,Pelastustie 4
+Raaseporin rescue,1983,Olli,Eddy,['Tennispallo'; 'Vinkulelu'],6,Lääkkeen anto,5.10.1985,3197,Kauppakeskus,13.8.1992,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Eevertti,Easy,['Tennispallo'; 'Vinkulelu'],5,Leikkihetki,28.12.1994,1722,Katu,7.5.1983,Kissa,Pelastustie 4
+Turun RescueKeskus,1904,Eevertti,Kadi,['Köysi'],3,Piikitys,28.12.1972,1722,Kauppakeskus,1.6.1996,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Mirjami,Edda,['Vinkulelu'; 'Tennispallo'; 'Köysi'],2,Tarkistus,8.8.1986,3111,Katu,5.1.1971,Koira,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eazy,['Tennispallo'; 'Vinkulelu'; 'Köysi'],5,Tarkistus,27.10.1982,1422,Sillanalus,9.2.1979,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Lauri,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Piikitys,6.8.1997,1662,Roskis,19.6.1988,Koira,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kadi,['Köysi'],3,Piikitys,3.6.1973,1633,Kauppakeskus,1.6.1996,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Kaabo,['Köysi'; 'Tennispallo'; 'Vinkulelu'],4,Lääkkeen anto,28.3.1977,3814,None,None,Koira,Keskusta 2
+Turun RescueKeskus,1904,Lauri,Ecko,['Tennispallo'],2,Piikitys,8.9.1973,1662,Sillanalus,14.2.1993,Kissa,Pelastustie 4
+Tampereen pelastus,1918,Ninni,Kafu,['Vinkulelu'; 'Tennispallo'; 'Köysi'],3,Tarkistus,22.9.1993,4640,Sillanalus,11.11.1997,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Ecko,['Köysi'; 'Vinkulelu'],1,Tarkistus,13.11.1996,3814,None,None,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Lauri,Eden,[],5,Piikitys,2.1.1984,3436,Roskis,5.2.1981,Undulaatti,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Kaapo,['Vinkulelu'],9,Piikitys,26.3.1974,1633,Sillanalus,7.2.1996,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Jaakko,Eddi,['Köysi'],5,Piikitys,18.2.1972,1422,Sillanalus,11.12.1999,Koira,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kafu,['Tennispallo'; 'Köysi'],7,Piikitys,7.1.1997,1633,Kauppakeskus,15.4.1987,Kissa,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Kaapo,['Vinkulelu'],9,Lääkkeen anto,10.10.1996,1633,Sillanalus,7.2.1996,Koira,Tampereentie 5
+Raaseporin rescue,1983,Harju,Ecco,['Tennispallo'; 'Köysi'; 'Vinkulelu'],8,Tarkistus,26.2.1970,4206,Sillanalus,25.12.1973,Koira,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Lääkkeen anto,11.3.1990,1785,Katu,2.2.1997,Koira,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kafu,['Tennispallo'; 'Köysi'],7,Tarkistus,19.7.1979,1633,Kauppakeskus,15.4.1987,Kissa,Tampereentie 5
+Tampereen pelastus,1918,Lauri,Edge,['Tennispallo'; 'Köysi'; 'Vinkulelu'],4,Piikitys,8.3.1990,3436,Roskis,28.1.1996,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Kaapo,Kaarlo,['Vinkulelu'; 'Tennispallo'],1,Lääkkeen anto,1.7.1996,1875,Sillanalus,28.6.1980,Koira,Pelastustie 4
+Raaseporin rescue,1983,Olli,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,20.6.1997,3197,Roskis,19.6.1988,Koira,Keskusta 2
+Raaseporin rescue,1983,Mirjami,Ecco,['Tennispallo'],4,Piikitys,2.11.1984,3111,None,None,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eddi,['Vinkulelu'; 'Köysi'],2,Lääkkeen anto,25.11.1987,1422,Kauppakeskus,10.4.1993,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Kaasu,['Köysi'; 'Vinkulelu'],4,Tarkistus,7.12.1989,1785,Roskis,24.9.1977,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Lauri,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,20.6.1997,1662,Roskis,19.6.1988,Koira,Pelastustie 4
+Tampereen pelastus,1918,Ninni,Eddy,['Tennispallo'; 'Vinkulelu'],6,Lääkkeen anto,5.10.1985,4640,Kauppakeskus,13.8.1992,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Lauri,Kaapo,['Vinkulelu'],9,Tarkistus,13.6.1998,2420,Sillanalus,7.2.1996,Koira,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Edge,['Vinkulelu'; 'Tennispallo'; 'Köysi'],5,Lääkkeen anto,20.5.1975,1785,Roskis,28.11.1985,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Piikitys,27.6.1980,1785,Katu,2.2.1997,Koira,Pelastustie 4
+Raaseporin rescue,1983,Harju,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Lääkkeen anto,2.6.1994,4206,Katu,2.2.1997,Koira,Keskusta 2
+Turun RescueKeskus,1904,Lauri,Eazy,['Tennispallo'; 'Vinkulelu'],1,Piikitys,8.1.1971,1662,Katu,9.3.1983,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Ecco,[],7,Tarkistus,2.7.1990,1875,Roskis,22.10.1975,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Lauri,Ecco,[],9,Leikkihetki,2.3.1987,3436,Roskis,7.9.1991,Undulaatti,Tampereentie 5
+Turun RescueKeskus,1904,Eevertti,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Piikitys,10.10.1996,1722,Roskis,26.10.1988,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Ninni,Kafu,['Vinkulelu'; 'Tennispallo'; 'Köysi'],3,Leikkihetki,18.10.1998,4640,Sillanalus,11.11.1997,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Mirjami,Edda,['Vinkulelu'; 'Tennispallo'; 'Köysi'],2,Piikitys,21.2.1985,3111,Katu,5.1.1971,Koira,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Kaasu,['Köysi'; 'Vinkulelu'],4,Tarkistus,3.5.1988,1785,Roskis,24.9.1977,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Lauri,Kaapo,['Vinkulelu'],9,Piikitys,26.3.1974,2420,Sillanalus,7.2.1996,Koira,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Edgar,['Köysi'],4,Lääkkeen anto,28.3.1985,4724,Roskis,4.1.1999,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Mirjami,Edda,['Vinkulelu'; 'Tennispallo'; 'Köysi'],2,Leikkihetki,21.11.1984,3111,Katu,5.1.1971,Koira,Keskusta 2
+Tampereen pelastus,1918,Matti,Eddie,['Tennispallo'; 'Köysi'],5,Lääkkeen anto,15.9.1984,2646,Kauppakeskus,22.5.1996,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Ecko,['Köysi'; 'Vinkulelu'],1,Lääkkeen anto,9.5.1980,3814,None,None,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Edge,['Vinkulelu'; 'Tennispallo'; 'Köysi'],5,Lääkkeen anto,10.9.1990,1785,Roskis,28.11.1985,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Untamo,Kaabo,['Köysi'; 'Tennispallo'; 'Vinkulelu'],4,Piikitys,3.5.1983,3814,None,None,Koira,Keskusta 2
+Tampereen pelastus,1918,Matti,Edge,['Köysi'; 'Vinkulelu'],2,Lääkkeen anto,5.10.1977,2646,Sillanalus,14.5.2000,Koira,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Ecko,['Köysi'; 'Vinkulelu'],1,Lääkkeen anto,14.1.1993,3814,None,None,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Eddy,[],10,Piikitys,13.4.1985,1875,Sillanalus,27.11.1995,Koira,Pelastustie 4
+Turun RescueKeskus,1904,Eevertti,Kadet,['Vinkulelu'; 'Köysi'; 'Tennispallo'],8,Lääkkeen anto,9.5.1981,1722,Katu,8.4.1989,Kissa,Pelastustie 4
+Tampereen pelastus,1918,Ninni,Eddie,['Tennispallo'; 'Vinkulelu'; 'Köysi'],8,Leikkihetki,26.3.1972,4640,Sillanalus,12.2.1985,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Lauri,Eazy,['Tennispallo'; 'Vinkulelu'],1,Leikkihetki,12.1.1975,1662,Katu,9.3.1983,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Lauri,Ecco,[],9,Leikkihetki,3.12.1992,3436,Roskis,7.9.1991,Undulaatti,Tampereentie 5
+Turun RescueKeskus,1904,Eevertti,Easy,['Tennispallo'; 'Vinkulelu'],5,Lääkkeen anto,21.7.1973,1722,Katu,7.5.1983,Kissa,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Leikkihetki,27.6.1977,1785,Katu,2.2.1997,Koira,Pelastustie 4
+Tampereen pelastus,1918,Lauri,Kaarlo,['Tennispallo'; 'Köysi'],10,Tarkistus,27.10.1990,3436,Kauppakeskus,11.9.1991,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Jaakko,Eddi,['Köysi'],5,Tarkistus,24.5.1998,1422,Sillanalus,11.12.1999,Koira,Pelastustie 4
+Turun RescueKeskus,1904,Lauri,Ecco,['Tennispallo'],4,Piikitys,2.11.1984,1662,None,None,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Lauri,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Piikitys,27.6.1980,2420,Katu,2.2.1997,Koira,Keskusta 2
+Raaseporin rescue,1983,Olli,Eddi,['Tennispallo'; 'Köysi'; 'Vinkulelu'],3,Tarkistus,13.7.1981,3197,Katu,4.12.1976,Koira,Keskusta 2
+Tampereen pelastus,1918,Ninni,Eddy,['Tennispallo'; 'Vinkulelu'],6,Lääkkeen anto,21.4.1976,4640,Kauppakeskus,13.8.1992,Undulaatti,Tampereentie 5
+Tampereen pelastus,1918,Ninni,Kafu,['Vinkulelu'; 'Tennispallo'; 'Köysi'],3,Piikitys,10.9.1998,4640,Sillanalus,11.11.1997,Kissa,Tampereentie 5
+Tampereen pelastus,1918,Lauri,Eden,[],5,Piikitys,11.10.1979,3436,Roskis,5.2.1981,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Olli,Eddy,['Tennispallo'; 'Köysi'],8,Tarkistus,20.8.2000,3197,Sillanalus,16.12.1975,Kissa,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eddy,['Tennispallo'; 'Köysi'; 'Vinkulelu'],9,Leikkihetki,18.6.1999,1422,Katu,4.10.1970,Kissa,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kadi,[],6,Piikitys,20.1.1973,1633,None,None,Kissa,Tampereentie 5
+Turun RescueKeskus,1904,Kaapo,Eddy,[],10,Lääkkeen anto,24.12.1993,1875,Sillanalus,27.11.1995,Koira,Pelastustie 4
+Turun RescueKeskus,1904,Eevertti,Kadet,['Vinkulelu'; 'Köysi'; 'Tennispallo'],8,Lääkkeen anto,26.3.1987,1722,Katu,8.4.1989,Kissa,Pelastustie 4
+Turun RescueKeskus,1904,Lauri,Ecco,['Tennispallo'],4,Piikitys,7.1.1970,1662,None,None,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kaasu,['Vinkulelu'],8,Lääkkeen anto,15.2.1981,4724,Roskis,24.12.1970,Koira,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Kaasu,['Vinkulelu'],8,Tarkistus,4.4.1992,4724,Roskis,24.12.1970,Koira,Tampereentie 5
+Raaseporin rescue,1983,Harju,Eddy,['Tennispallo'; 'Vinkulelu'],6,Lääkkeen anto,7.3.1992,4206,Kauppakeskus,13.8.1992,Undulaatti,Keskusta 2
+Raaseporin rescue,1983,Mirjami,Edge,[],4,Piikitys,6.4.1984,3111,Katu,4.11.1970,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Lauri,Ecco,[],9,Piikitys,8.6.1984,3436,Roskis,7.9.1991,Undulaatti,Tampereentie 5
+Tampereen pelastus,1918,Lauri,Kaarlo,['Tennispallo'; 'Köysi'],10,Tarkistus,18.2.1997,3436,Kauppakeskus,11.9.1991,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Eevertti,Kadi,['Köysi'],3,Lääkkeen anto,15.4.1988,1722,Kauppakeskus,1.6.1996,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Mirjami,Edda,['Vinkulelu'; 'Tennispallo'; 'Köysi'],2,Leikkihetki,20.3.1992,3111,Katu,5.1.1971,Koira,Keskusta 2
+Tampereen pelastus,1918,Matti,Edge,['Köysi'; 'Vinkulelu'],2,Leikkihetki,4.11.1973,2646,Sillanalus,14.5.2000,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Lauri,Ecco,['Tennispallo'],4,Lääkkeen anto,3.10.2000,1662,None,None,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Lauri,Kaasu,['Vinkulelu'; 'Tennispallo'],6,Piikitys,10.4.1993,2420,Katu,11.8.1980,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eddi,['Köysi'],5,Piikitys,12.11.1987,1422,Sillanalus,11.12.1999,Koira,Pelastustie 4
+Raaseporin rescue,1983,Mirjami,Kaasu,['Vinkulelu'],8,Leikkihetki,14.10.1975,3111,Roskis,24.12.1970,Koira,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Eddy,[],10,Lääkkeen anto,19.11.1982,1875,Sillanalus,27.11.1995,Koira,Pelastustie 4
+Tampereen pelastus,1918,Matti,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,20.6.1997,2646,Roskis,19.6.1988,Koira,Tampereentie 5
+Raaseporin rescue,1983,Harju,Eddy,['Tennispallo'; 'Vinkulelu'],6,Lääkkeen anto,21.4.1976,4206,Kauppakeskus,13.8.1992,Undulaatti,Keskusta 2
+Raaseporin rescue,1983,Harju,Eddi,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Tarkistus,1.10.1978,4206,Sillanalus,26.3.1993,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eddy,['Tennispallo'; 'Köysi'; 'Vinkulelu'],9,Leikkihetki,17.3.1979,1422,Katu,4.10.1970,Kissa,Pelastustie 4
+Raaseporin rescue,1983,Olli,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,9.4.1996,3197,Roskis,19.6.1988,Koira,Keskusta 2
+Turun RescueKeskus,1904,Lauri,Kaarina,['Vinkulelu'; 'Köysi'; 'Tennispallo'],9,Piikitys,19.8.1974,1662,Katu,25.6.2000,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Eden,['Vinkulelu'; 'Tennispallo'; 'Köysi'],10,Tarkistus,13.8.1974,1785,None,None,Koira,Pelastustie 4
+Raaseporin rescue,1983,Olli,Eddy,['Tennispallo'; 'Köysi'],8,Leikkihetki,2.12.1975,3197,Sillanalus,16.12.1975,Kissa,Keskusta 2
+Raaseporin rescue,1983,Mirjami,Kaasu,['Vinkulelu'],8,Tarkistus,4.4.1992,3111,Roskis,24.12.1970,Koira,Keskusta 2
+Tampereen pelastus,1918,Matti,Eddie,['Tennispallo'; 'Köysi'],5,Leikkihetki,5.5.1992,2646,Kauppakeskus,22.5.1996,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Eazy,[],1,Lääkkeen anto,19.10.1971,3814,Roskis,15.2.1990,Koira,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eddi,['Vinkulelu'; 'Köysi'],2,Piikitys,1.10.1971,1422,Kauppakeskus,10.4.1993,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Matti,Eddie,['Tennispallo'; 'Köysi'],5,Tarkistus,13.8.1990,2646,Kauppakeskus,22.5.1996,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Harju,Ecco,['Tennispallo'; 'Köysi'; 'Vinkulelu'],8,Leikkihetki,8.7.1975,4206,Sillanalus,25.12.1973,Koira,Keskusta 2
+Turun RescueKeskus,1904,Eevertti,Eddie,['Köysi'; 'Tennispallo'; 'Vinkulelu'],2,Lääkkeen anto,13.4.1981,1722,Roskis,11.3.1975,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Harju,Eddi,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Lääkkeen anto,24.2.1980,4206,Sillanalus,26.3.1993,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Matti,Edge,['Köysi'; 'Vinkulelu'],2,Piikitys,27.4.1990,2646,Sillanalus,14.5.2000,Koira,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Kaabo,[],9,Leikkihetki,16.3.1981,4724,Katu,2.7.1982,Kissa,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Kadi,[],6,Leikkihetki,3.8.1988,1633,None,None,Kissa,Tampereentie 5
+Turun RescueKeskus,1904,Kaapo,Kaarlo,['Vinkulelu'; 'Tennispallo'],1,Lääkkeen anto,17.10.1993,1875,Sillanalus,28.6.1980,Koira,Pelastustie 4
+Raaseporin rescue,1983,Lauri,Kaarina,['Köysi'],8,Tarkistus,28.1.1982,2420,Kauppakeskus,16.4.1986,Kissa,Keskusta 2
+Turun RescueKeskus,1904,Lauri,Kaarina,['Vinkulelu'; 'Köysi'; 'Tennispallo'],9,Piikitys,2.12.1978,1662,Katu,25.6.2000,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Mirjami,Edge,[],4,Tarkistus,10.3.1975,3111,Katu,4.11.1970,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Matti,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,9.4.1996,2646,Roskis,19.6.1988,Koira,Tampereentie 5
+Raaseporin rescue,1983,Olli,Eddy,['Tennispallo'; 'Köysi'],8,Tarkistus,9.11.1980,3197,Sillanalus,16.12.1975,Kissa,Keskusta 2
+Raaseporin rescue,1983,Lauri,Kadet,['Vinkulelu'; 'Köysi'; 'Tennispallo'],8,Lääkkeen anto,9.5.1981,2420,Katu,8.4.1989,Kissa,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Ecco,[],7,Tarkistus,20.10.1988,1875,Roskis,22.10.1975,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Lauri,Kaarlo,['Tennispallo'; 'Köysi'],10,Piikitys,27.7.1970,3436,Kauppakeskus,11.9.1991,Koira,Tampereentie 5
+Tampereen pelastus,1918,Matti,Edge,['Köysi'; 'Vinkulelu'],2,Leikkihetki,8.3.1996,2646,Sillanalus,14.5.2000,Koira,Tampereentie 5
+Raaseporin rescue,1983,Mirjami,Edge,[],4,Leikkihetki,4.11.1991,3111,Katu,4.11.1970,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Kadi,['Vinkulelu'],2,Tarkistus,18.6.1979,1633,Roskis,6.3.1985,Koira,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Eazy,[],1,Leikkihetki,11.2.1994,3814,Roskis,15.2.1990,Koira,Keskusta 2
+Turun RescueKeskus,1904,Eevertti,Eddie,['Köysi'; 'Tennispallo'; 'Vinkulelu'],2,Lääkkeen anto,4.7.1995,1722,Roskis,11.3.1975,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Lauri,Eden,[],5,Leikkihetki,13.10.1998,3436,Roskis,5.2.1981,Undulaatti,Tampereentie 5
+Tampereen pelastus,1918,Matti,Kafu,['Tennispallo'; 'Vinkulelu'; 'Köysi'],8,Leikkihetki,6.6.1995,2646,Roskis,18.9.1977,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Lauri,Kaasu,['Vinkulelu'; 'Tennispallo'],6,Piikitys,13.3.1986,2420,Katu,11.8.1980,Undulaatti,Keskusta 2
+Raaseporin rescue,1983,Lauri,Kaasu,['Vinkulelu'; 'Tennispallo'],6,Leikkihetki,16.11.1997,2420,Katu,11.8.1980,Undulaatti,Keskusta 2
+Raaseporin rescue,1983,Lauri,Kaarina,['Köysi'],8,Piikitys,18.4.1991,2420,Kauppakeskus,16.4.1986,Kissa,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Kadi,['Köysi'],3,Lääkkeen anto,15.4.1988,1633,Kauppakeskus,1.6.1996,Undulaatti,Tampereentie 5
+Turun RescueKeskus,1904,Jaakko,Edgar,['Köysi'],4,Lääkkeen anto,4.6.1982,1422,Roskis,4.1.1999,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Kaarlo,['Vinkulelu'; 'Tennispallo'],1,Lääkkeen anto,1.4.1979,1875,Sillanalus,28.6.1980,Koira,Pelastustie 4
+Raaseporin rescue,1983,Harju,Eddy,['Tennispallo'; 'Vinkulelu'],6,Leikkihetki,10.4.1970,4206,Kauppakeskus,13.8.1992,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Eevertti,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Tarkistus,27.11.1977,1722,Roskis,26.10.1988,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kadi,['Vinkulelu'],2,Piikitys,27.1.1986,1633,Roskis,6.3.1985,Koira,Tampereentie 5
+Raaseporin rescue,1983,Olli,Eddy,['Tennispallo'; 'Köysi'],8,Leikkihetki,26.6.1991,3197,Sillanalus,16.12.1975,Kissa,Keskusta 2
+Raaseporin rescue,1983,Mirjami,Ecco,['Tennispallo'],4,Leikkihetki,3.12.1997,3111,None,None,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eddi,['Vinkulelu'; 'Köysi'],2,Piikitys,5.4.1974,1422,Kauppakeskus,10.4.1993,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Matti,Eddie,['Tennispallo'; 'Köysi'],5,Tarkistus,12.9.1997,2646,Kauppakeskus,22.5.1996,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Lauri,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Leikkihetki,27.6.1977,2420,Katu,2.2.1997,Koira,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Edgar,['Köysi'],4,Lääkkeen anto,28.3.1985,1785,Roskis,4.1.1999,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Kaarina,[],3,Tarkistus,20.2.1993,1875,Sillanalus,26.8.1971,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Olli,Eddie,['Tennispallo'; 'Vinkulelu'],8,Piikitys,28.1.1987,3197,Kauppakeskus,10.5.1979,Undulaatti,Keskusta 2
+Raaseporin rescue,1983,Harju,Kafir,[],6,Piikitys,6.7.1998,4206,Katu,7.12.1970,Koira,Keskusta 2
+Raaseporin rescue,1983,Harju,Kafir,[],6,Lääkkeen anto,24.5.1998,4206,Katu,7.12.1970,Koira,Keskusta 2
+Tampereen pelastus,1918,Lauri,Edge,['Tennispallo'; 'Köysi'; 'Vinkulelu'],4,Tarkistus,20.11.1979,3436,Roskis,28.1.1996,Koira,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Kadi,['Köysi'],3,Piikitys,28.12.1972,1633,Kauppakeskus,1.6.1996,Undulaatti,Tampereentie 5
+Tampereen pelastus,1918,Ninni,Kadet,['Köysi'],3,Lääkkeen anto,28.12.1970,4640,None,None,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Jaakko,Edgar,['Köysi'],4,Tarkistus,7.3.1998,1422,Roskis,4.1.1999,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Lauri,Eden,[],5,Leikkihetki,1.8.1984,3436,Roskis,5.2.1981,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Olli,Eddi,['Tennispallo'; 'Köysi'; 'Vinkulelu'],3,Lääkkeen anto,12.11.1990,3197,Katu,4.12.1976,Koira,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Edgar,['Köysi'],4,Leikkihetki,12.8.1976,1785,Roskis,4.1.1999,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Eden,['Vinkulelu'; 'Tennispallo'; 'Köysi'],10,Tarkistus,12.3.1990,1785,None,None,Koira,Pelastustie 4
+Tampereen pelastus,1918,Lauri,Ecco,[],9,Piikitys,18.9.1970,3436,Roskis,7.9.1991,Undulaatti,Tampereentie 5
+Tampereen pelastus,1918,Lauri,Kaasu,['Vinkulelu'],8,Tarkistus,4.4.1992,3436,Roskis,24.12.1970,Koira,Tampereentie 5
+Raaseporin rescue,1983,Harju,Kafir,[],6,Lääkkeen anto,1.11.1993,4206,Katu,7.12.1970,Koira,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Ecco,[],7,Leikkihetki,26.5.1972,1875,Roskis,22.10.1975,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Kaasu,['Köysi'; 'Vinkulelu'],4,Leikkihetki,10.6.1981,1785,Roskis,24.9.1977,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Lauri,Kadet,['Vinkulelu'; 'Köysi'; 'Tennispallo'],8,Leikkihetki,17.1.1998,2420,Katu,8.4.1989,Kissa,Keskusta 2
+Raaseporin rescue,1983,Harju,Eddy,['Tennispallo'; 'Vinkulelu'],6,Lääkkeen anto,21.1.1970,4206,Kauppakeskus,13.8.1992,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Ninni,Kadet,['Köysi'],3,Leikkihetki,10.8.1978,4640,None,None,Koira,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Ecco,['Tennispallo'; 'Köysi'; 'Vinkulelu'],8,Leikkihetki,6.7.1997,3814,Sillanalus,25.12.1973,Koira,Keskusta 2
+Raaseporin rescue,1983,Lauri,Kadet,['Vinkulelu'; 'Köysi'; 'Tennispallo'],8,Lääkkeen anto,15.6.1997,2420,Katu,8.4.1989,Kissa,Keskusta 2
+Raaseporin rescue,1983,Harju,Eddi,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Lääkkeen anto,22.2.1973,4206,Sillanalus,26.3.1993,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Edgar,['Köysi'],4,Leikkihetki,12.8.1976,4724,Roskis,4.1.1999,Undulaatti,Tampereentie 5
+Tampereen pelastus,1918,Ninni,Eddie,['Tennispallo'; 'Vinkulelu'; 'Köysi'],8,Lääkkeen anto,24.5.1992,4640,Sillanalus,12.2.1985,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Kaapo,Edge,[],10,Lääkkeen anto,5.12.1978,1875,Kauppakeskus,25.9.1971,Koira,Pelastustie 4
+Turun RescueKeskus,1904,Eevertti,Eddie,['Köysi'; 'Tennispallo'; 'Vinkulelu'],2,Lääkkeen anto,14.1.1994,1722,Roskis,11.3.1975,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Lauri,Kaapo,['Vinkulelu'],9,Lääkkeen anto,11.3.1990,2420,Sillanalus,7.2.1996,Koira,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Kadi,['Köysi'],3,Lääkkeen anto,4.8.1983,1633,Kauppakeskus,1.6.1996,Undulaatti,Tampereentie 5
+Tampereen pelastus,1918,Ninni,Kadet,['Köysi'],3,Lääkkeen anto,15.6.1972,4640,None,None,Koira,Tampereentie 5
+Raaseporin rescue,1983,Harju,Kafir,[],6,Lääkkeen anto,6.6.1986,4206,Katu,7.12.1970,Koira,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eazy,['Tennispallo'; 'Vinkulelu'; 'Köysi'],5,Leikkihetki,25.3.1985,1422,Sillanalus,9.2.1979,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Lauri,Ecko,['Tennispallo'],2,Tarkistus,13.1.1997,1662,Sillanalus,14.2.1993,Kissa,Pelastustie 4
+Tampereen pelastus,1918,Lauri,Kaasu,['Vinkulelu'],8,Lääkkeen anto,15.2.1981,3436,Roskis,24.12.1970,Koira,Tampereentie 5
+Raaseporin rescue,1983,Olli,Eddy,['Tennispallo'; 'Vinkulelu'],6,Leikkihetki,10.4.1970,3197,Kauppakeskus,13.8.1992,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Matti,Eddie,['Tennispallo'; 'Köysi'],5,Lääkkeen anto,24.9.1972,2646,Kauppakeskus,22.5.1996,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Mirjami,Edda,['Vinkulelu'; 'Tennispallo'; 'Köysi'],2,Leikkihetki,20.5.1975,3111,Katu,5.1.1971,Koira,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Kaapo,['Vinkulelu'],9,Lääkkeen anto,19.9.1976,1633,Sillanalus,7.2.1996,Koira,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Edgar,['Köysi'],4,Lääkkeen anto,4.6.1982,4724,Roskis,4.1.1999,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Mirjami,Ebba,['Köysi'; 'Tennispallo'],3,Tarkistus,25.1.1984,3111,Kauppakeskus,19.3.1990,Kissa,Keskusta 2
+Raaseporin rescue,1983,Untamo,Kaabo,['Köysi'; 'Tennispallo'; 'Vinkulelu'],4,Leikkihetki,23.12.1970,3814,None,None,Koira,Keskusta 2
+Raaseporin rescue,1983,Olli,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Piikitys,6.8.1997,3197,Roskis,19.6.1988,Koira,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eazy,['Tennispallo'; 'Vinkulelu'; 'Köysi'],5,Leikkihetki,3.9.1978,1422,Sillanalus,9.2.1979,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Ninni,Kaarlo,[],2,Tarkistus,3.1.1987,4640,Katu,4.1.1995,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Lauri,Kaarina,['Vinkulelu'; 'Köysi'; 'Tennispallo'],9,Lääkkeen anto,13.2.1988,1662,Katu,25.6.2000,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Untamo,Ecco,['Tennispallo'; 'Köysi'; 'Vinkulelu'],8,Leikkihetki,8.7.1975,3814,Sillanalus,25.12.1973,Koira,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eazy,['Tennispallo'; 'Vinkulelu'; 'Köysi'],5,Tarkistus,11.10.1999,1422,Sillanalus,9.2.1979,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Matti,Ecco,[],9,Leikkihetki,3.12.1992,2646,Roskis,7.9.1991,Undulaatti,Tampereentie 5
+Turun RescueKeskus,1904,Eevertti,Easy,['Tennispallo'; 'Vinkulelu'],5,Lääkkeen anto,19.3.1999,1722,Katu,7.5.1983,Kissa,Pelastustie 4
+Turun RescueKeskus,1904,Lauri,Kaarina,['Vinkulelu'; 'Köysi'; 'Tennispallo'],9,Piikitys,7.8.1984,1662,Katu,25.6.2000,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Edge,['Vinkulelu'; 'Tennispallo'; 'Köysi'],5,Piikitys,24.11.1970,1785,Roskis,28.11.1985,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Mirjami,Edge,[],4,Lääkkeen anto,10.9.1995,3111,Katu,4.11.1970,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Eden,['Vinkulelu'; 'Tennispallo'; 'Köysi'],10,Tarkistus,12.4.1999,1785,None,None,Koira,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Ebba,[],8,Tarkistus,13.1.1979,4724,None,None,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Lauri,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Lääkkeen anto,2.6.1994,2420,Katu,2.2.1997,Koira,Keskusta 2
+Turun RescueKeskus,1904,Lauri,Ecko,['Tennispallo'],2,Tarkistus,5.5.1998,1662,Sillanalus,14.2.1993,Kissa,Pelastustie 4
+Turun RescueKeskus,1904,Jaakko,Eazy,['Tennispallo'; 'Vinkulelu'; 'Köysi'],5,Leikkihetki,25.5.1989,1422,Sillanalus,9.2.1979,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kaasu,['Vinkulelu'],8,Leikkihetki,16.1.1998,4724,Roskis,24.12.1970,Koira,Tampereentie 5
+Raaseporin rescue,1983,Mirjami,Ebba,['Köysi'; 'Tennispallo'],3,Tarkistus,10.11.1998,3111,Kauppakeskus,19.3.1990,Kissa,Keskusta 2
+Raaseporin rescue,1983,Lauri,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Leikkihetki,8.7.2000,2420,Katu,2.2.1997,Koira,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eddi,['Vinkulelu'; 'Köysi'],2,Piikitys,6.4.1991,1422,Kauppakeskus,10.4.1993,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kadi,['Vinkulelu'],2,Lääkkeen anto,1.9.1981,1633,Roskis,6.3.1985,Koira,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Kafu,['Tennispallo'; 'Köysi'],7,Piikitys,16.3.1974,1633,Kauppakeskus,15.4.1987,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Ecco,[],10,Lääkkeen anto,4.9.1977,3814,Katu,13.5.1991,Kissa,Keskusta 2
+Raaseporin rescue,1983,Untamo,Ecko,['Köysi'; 'Vinkulelu'],1,Tarkistus,2.7.1994,3814,None,None,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Lauri,Eazy,['Tennispallo'; 'Vinkulelu'],1,Leikkihetki,27.4.1982,1662,Katu,9.3.1983,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Olli,Eddy,['Tennispallo'; 'Köysi'],8,Piikitys,25.3.1974,3197,Sillanalus,16.12.1975,Kissa,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Kaasu,['Köysi'; 'Vinkulelu'],4,Lääkkeen anto,2.6.1971,1785,Roskis,24.9.1977,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Eevertti,Kadi,['Köysi'],3,Lääkkeen anto,7.2.2000,1722,Kauppakeskus,1.6.1996,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Ninni,Kadet,['Köysi'],3,Lääkkeen anto,5.11.1976,4640,None,None,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Lauri,Ecco,['Tennispallo'],4,Leikkihetki,3.12.1997,1662,None,None,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Matti,Kafu,['Tennispallo'; 'Vinkulelu'; 'Köysi'],8,Tarkistus,7.6.1987,2646,Roskis,18.9.1977,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Mirjami,Kaasu,['Vinkulelu'],8,Leikkihetki,12.7.1980,3111,Roskis,24.12.1970,Koira,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Edgar,['Köysi'],4,Lääkkeen anto,26.3.1974,1422,Roskis,4.1.1999,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Edge,[],10,Lääkkeen anto,11.9.1999,1875,Kauppakeskus,25.9.1971,Koira,Pelastustie 4
+Turun RescueKeskus,1904,Eevertti,Easy,['Tennispallo'; 'Vinkulelu'],5,Lääkkeen anto,25.11.1987,1722,Katu,7.5.1983,Kissa,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Edge,['Vinkulelu'; 'Tennispallo'; 'Köysi'],5,Tarkistus,26.10.1974,1785,Roskis,28.11.1985,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Matti,Kafu,['Tennispallo'; 'Vinkulelu'; 'Köysi'],8,Leikkihetki,18.5.1993,2646,Roskis,18.9.1977,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Ecko,['Köysi'; 'Vinkulelu'],1,Leikkihetki,25.4.1994,3814,None,None,Undulaatti,Keskusta 2
+Raaseporin rescue,1983,Mirjami,Ebba,['Köysi'; 'Tennispallo'],3,Leikkihetki,15.7.1998,3111,Kauppakeskus,19.3.1990,Kissa,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Edge,[],10,Piikitys,18.4.1986,1875,Kauppakeskus,25.9.1971,Koira,Pelastustie 4
+Tampereen pelastus,1918,Matti,Ecco,[],9,Piikitys,8.6.1984,2646,Roskis,7.9.1991,Undulaatti,Tampereentie 5
+Turun RescueKeskus,1904,Lauri,Eazy,['Tennispallo'; 'Vinkulelu'],1,Tarkistus,17.7.1982,1662,Katu,9.3.1983,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Lauri,Kaasu,['Vinkulelu'; 'Tennispallo'],6,Piikitys,13.2.1972,2420,Katu,11.8.1980,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Ninni,Kaarlo,[],2,Piikitys,9.4.1985,4640,Katu,4.1.1995,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Kaapo,Edge,[],10,Piikitys,22.2.1992,1875,Kauppakeskus,25.9.1971,Koira,Pelastustie 4
+Raaseporin rescue,1983,Untamo,Ecco,['Tennispallo'; 'Köysi'; 'Vinkulelu'],8,Tarkistus,26.2.1970,3814,Sillanalus,25.12.1973,Koira,Keskusta 2
+Tampereen pelastus,1918,Ninni,Kafu,['Vinkulelu'; 'Tennispallo'; 'Köysi'],3,Leikkihetki,18.2.1980,4640,Sillanalus,11.11.1997,Kissa,Tampereentie 5
+Turun RescueKeskus,1904,Kaapo,Kaarina,[],3,Tarkistus,4.4.1990,1875,Sillanalus,26.8.1971,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Eevertti,Kadi,['Köysi'],3,Piikitys,3.6.1973,1722,Kauppakeskus,1.6.1996,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Untamo,Ecco,[],10,Tarkistus,10.6.1982,3814,Katu,13.5.1991,Kissa,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Ebba,[],8,Lääkkeen anto,14.11.1994,4724,None,None,Kissa,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Kaabo,[],9,Lääkkeen anto,8.1.1984,4724,Katu,2.7.1982,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Kaabo,['Köysi'; 'Tennispallo'; 'Vinkulelu'],4,Lääkkeen anto,12.3.1972,3814,None,None,Koira,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Ecko,['Köysi'],2,Piikitys,20.7.1986,4724,Roskis,3.7.1990,Kissa,Tampereentie 5
+Turun RescueKeskus,1904,Kaapo,Kaarlo,['Vinkulelu'; 'Tennispallo'],1,Leikkihetki,22.12.1977,1875,Sillanalus,28.6.1980,Koira,Pelastustie 4
+Raaseporin rescue,1983,Lauri,Kadet,['Vinkulelu'; 'Köysi'; 'Tennispallo'],8,Lääkkeen anto,26.3.1987,2420,Katu,8.4.1989,Kissa,Keskusta 2
+Raaseporin rescue,1983,Olli,Eddie,['Tennispallo'; 'Vinkulelu'],8,Leikkihetki,18.3.2000,3197,Kauppakeskus,10.5.1979,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Eevertti,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Leikkihetki,17.1.1999,1722,Roskis,26.10.1988,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Eevertti,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,8.3.2000,1722,Roskis,26.10.1988,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Lauri,Kaasu,['Vinkulelu'; 'Tennispallo'],6,Piikitys,8.12.1978,2420,Katu,11.8.1980,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Lauri,Kaarina,['Vinkulelu'; 'Köysi'; 'Tennispallo'],9,Lääkkeen anto,22.9.1976,1662,Katu,25.6.2000,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Eevertti,Eddie,['Köysi'; 'Tennispallo'; 'Vinkulelu'],2,Leikkihetki,21.7.1977,1722,Roskis,11.3.1975,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kadi,['Vinkulelu'],2,Lääkkeen anto,18.4.1980,1633,Roskis,6.3.1985,Koira,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Ecco,['Tennispallo'; 'Köysi'; 'Vinkulelu'],8,Tarkistus,12.8.1983,3814,Sillanalus,25.12.1973,Koira,Keskusta 2
+Tampereen pelastus,1918,Matti,Ecco,[],9,Piikitys,18.9.1970,2646,Roskis,7.9.1991,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Mirjami,Kaasu,['Vinkulelu'],8,Lääkkeen anto,15.2.1981,3111,Roskis,24.12.1970,Koira,Keskusta 2
+Raaseporin rescue,1983,Mirjami,Ebba,['Köysi'; 'Tennispallo'],3,Leikkihetki,2.4.1970,3111,Kauppakeskus,19.3.1990,Kissa,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Lääkkeen anto,2.6.1994,1785,Katu,2.2.1997,Koira,Pelastustie 4
+Raaseporin rescue,1983,Mirjami,Edge,[],4,Piikitys,8.10.1970,3111,Katu,4.11.1970,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Ebba,[],8,Lääkkeen anto,5.4.2000,4724,None,None,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Kaabo,['Köysi'; 'Tennispallo'; 'Vinkulelu'],4,Leikkihetki,14.2.1993,3814,None,None,Koira,Keskusta 2
+Tampereen pelastus,1918,Lauri,Ecco,[],9,Piikitys,23.4.1975,3436,Roskis,7.9.1991,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Olli,Eddie,['Tennispallo'; 'Vinkulelu'],8,Leikkihetki,23.7.1995,3197,Kauppakeskus,10.5.1979,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eddy,['Tennispallo'; 'Köysi'; 'Vinkulelu'],9,Piikitys,3.7.1999,1422,Katu,4.10.1970,Kissa,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kafu,['Tennispallo'; 'Köysi'],7,Leikkihetki,22.4.1998,1633,Kauppakeskus,15.4.1987,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Olli,Eddy,['Tennispallo'; 'Vinkulelu'],6,Lääkkeen anto,7.3.1992,3197,Kauppakeskus,13.8.1992,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Ninni,Kadet,['Köysi'],3,Piikitys,7.6.1981,4640,None,None,Koira,Tampereentie 5
+Tampereen pelastus,1918,Matti,Ecco,[],9,Piikitys,23.4.1975,2646,Roskis,7.9.1991,Undulaatti,Tampereentie 5
+Turun RescueKeskus,1904,Kaapo,Eden,['Vinkulelu'; 'Tennispallo'; 'Köysi'],10,Leikkihetki,13.6.1977,1785,None,None,Koira,Pelastustie 4
+Turun RescueKeskus,1904,Jaakko,Eddi,['Vinkulelu'; 'Köysi'],2,Lääkkeen anto,15.3.1996,1422,Kauppakeskus,10.4.1993,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Matti,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Piikitys,6.8.1997,2646,Roskis,19.6.1988,Koira,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Kadi,[],6,Tarkistus,1.2.1983,1633,None,None,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Olli,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,26.7.1972,3197,Roskis,19.6.1988,Koira,Keskusta 2
+Raaseporin rescue,1983,Mirjami,Ecco,['Tennispallo'],4,Lääkkeen anto,3.10.2000,3111,None,None,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Lauri,Edge,['Tennispallo'; 'Köysi'; 'Vinkulelu'],4,Tarkistus,13.9.1993,3436,Roskis,28.1.1996,Koira,Tampereentie 5
+Tampereen pelastus,1918,Ninni,Eddy,['Tennispallo'; 'Vinkulelu'],6,Lääkkeen anto,21.1.1970,4640,Kauppakeskus,13.8.1992,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Mirjami,Kaasu,['Vinkulelu'],8,Leikkihetki,16.1.1998,3111,Roskis,24.12.1970,Koira,Keskusta 2
+Turun RescueKeskus,1904,Lauri,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,26.7.1972,1662,Roskis,19.6.1988,Koira,Pelastustie 4
+Tampereen pelastus,1918,Ninni,Eddie,['Tennispallo'; 'Vinkulelu'; 'Köysi'],8,Lääkkeen anto,5.7.1984,4640,Sillanalus,12.2.1985,Koira,Tampereentie 5
+Tampereen pelastus,1918,Matti,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,26.7.1972,2646,Roskis,19.6.1988,Koira,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Ecco,['Tennispallo'; 'Köysi'; 'Vinkulelu'],8,Tarkistus,5.3.1971,3814,Sillanalus,25.12.1973,Koira,Keskusta 2
+Turun RescueKeskus,1904,Lauri,Ecco,['Tennispallo'],4,Lääkkeen anto,26.5.1998,1662,None,None,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Jaakko,Eddy,['Tennispallo'; 'Köysi'; 'Vinkulelu'],9,Leikkihetki,15.12.1988,1422,Katu,4.10.1970,Kissa,Pelastustie 4
+Raaseporin rescue,1983,Harju,Ecco,['Tennispallo'; 'Köysi'; 'Vinkulelu'],8,Leikkihetki,6.7.1997,4206,Sillanalus,25.12.1973,Koira,Keskusta 2
+Raaseporin rescue,1983,Harju,Kafir,[],6,Lääkkeen anto,26.7.1981,4206,Katu,7.12.1970,Koira,Keskusta 2
+Raaseporin rescue,1983,Untamo,Ecco,[],10,Tarkistus,3.5.1970,3814,Katu,13.5.1991,Kissa,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Ebba,[],8,Leikkihetki,9.6.1973,4724,None,None,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Harju,Ecco,['Tennispallo'; 'Köysi'; 'Vinkulelu'],8,Tarkistus,12.8.1983,4206,Sillanalus,25.12.1973,Koira,Keskusta 2
+Turun RescueKeskus,1904,Jaakko,Eddi,['Köysi'],5,Piikitys,23.4.1992,1422,Sillanalus,11.12.1999,Koira,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Eden,['Vinkulelu'; 'Tennispallo'; 'Köysi'],10,Tarkistus,9.6.1977,1785,None,None,Koira,Pelastustie 4
+Raaseporin rescue,1983,Olli,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,13.2.1989,3197,Roskis,19.6.1988,Koira,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Kaarina,[],3,Leikkihetki,1.9.1999,1875,Sillanalus,26.8.1971,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Harju,Eddi,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Tarkistus,6.12.1984,4206,Sillanalus,26.3.1993,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Kaabo,[],9,Leikkihetki,10.2.1971,4724,Katu,2.7.1982,Kissa,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Ecko,['Köysi'],2,Lääkkeen anto,8.2.1979,4724,Roskis,3.7.1990,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Lauri,Kadet,['Vinkulelu'; 'Köysi'; 'Tennispallo'],8,Tarkistus,18.3.1978,2420,Katu,8.4.1989,Kissa,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Kaasu,['Vinkulelu'],8,Leikkihetki,14.10.1975,4724,Roskis,24.12.1970,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Eevertti,Eddie,['Köysi'; 'Tennispallo'; 'Vinkulelu'],2,Leikkihetki,22.10.1975,1722,Roskis,11.3.1975,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Ecko,['Köysi'],2,Lääkkeen anto,4.10.1987,4724,Roskis,3.7.1990,Kissa,Tampereentie 5
+Tampereen pelastus,1918,Lauri,Kaarlo,['Tennispallo'; 'Köysi'],10,Piikitys,19.12.1996,3436,Kauppakeskus,11.9.1991,Koira,Tampereentie 5
+Raaseporin rescue,1983,Harju,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Leikkihetki,27.6.1977,4206,Katu,2.2.1997,Koira,Keskusta 2
+Turun RescueKeskus,1904,Eevertti,Kadet,['Vinkulelu'; 'Köysi'; 'Tennispallo'],8,Lääkkeen anto,15.6.1997,1722,Katu,8.4.1989,Kissa,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Edgar,['Köysi'],4,Lääkkeen anto,4.6.1982,1785,Roskis,4.1.1999,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kaabo,[],9,Piikitys,28.1.1985,4724,Katu,2.7.1982,Kissa,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Kadi,['Vinkulelu'],2,Piikitys,13.6.1982,1633,Roskis,6.3.1985,Koira,Tampereentie 5
+Raaseporin rescue,1983,Olli,Eddi,['Tennispallo'; 'Köysi'; 'Vinkulelu'],3,Lääkkeen anto,7.11.1978,3197,Katu,4.12.1976,Koira,Keskusta 2
+Tampereen pelastus,1918,Lauri,Kaarlo,['Tennispallo'; 'Köysi'],10,Piikitys,25.11.1991,3436,Kauppakeskus,11.9.1991,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Jaakko,Edgar,['Köysi'],4,Leikkihetki,12.8.1976,1422,Roskis,4.1.1999,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Matti,Ecco,[],9,Leikkihetki,2.3.1987,2646,Roskis,7.9.1991,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Olli,Eddi,['Tennispallo'; 'Köysi'; 'Vinkulelu'],3,Tarkistus,3.10.1983,3197,Katu,4.12.1976,Koira,Keskusta 2
+Tampereen pelastus,1918,Matti,Kafu,['Tennispallo'; 'Vinkulelu'; 'Köysi'],8,Piikitys,14.2.1970,2646,Roskis,18.9.1977,Kissa,Tampereentie 5
+Raaseporin rescue,1983,Harju,Eddy,['Tennispallo'; 'Vinkulelu'],6,Lääkkeen anto,5.10.1985,4206,Kauppakeskus,13.8.1992,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Lauri,Eazy,['Tennispallo'; 'Vinkulelu'],1,Lääkkeen anto,24.10.1976,1662,Katu,9.3.1983,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Lauri,Kaasu,['Vinkulelu'],8,Leikkihetki,16.1.1998,3436,Roskis,24.12.1970,Koira,Tampereentie 5
+Tampereen pelastus,1918,Matti,Edge,['Köysi'; 'Vinkulelu'],2,Lääkkeen anto,15.7.1970,2646,Sillanalus,14.5.2000,Koira,Tampereentie 5
+Tampereen pelastus,1918,Ninni,Eddie,['Tennispallo'; 'Vinkulelu'; 'Köysi'],8,Lääkkeen anto,9.5.1996,4640,Sillanalus,12.2.1985,Koira,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Edgar,['Köysi'],4,Lääkkeen anto,26.3.1974,4724,Roskis,4.1.1999,Undulaatti,Tampereentie 5
+Turun RescueKeskus,1904,Kaapo,Ecco,[],7,Piikitys,8.10.1981,1875,Roskis,22.10.1975,Undulaatti,Pelastustie 4
+Turun RescueKeskus,1904,Lauri,Ecko,['Tennispallo'],2,Lääkkeen anto,25.4.1982,1662,Sillanalus,14.2.1993,Kissa,Pelastustie 4
+Turun RescueKeskus,1904,Eevertti,Kadet,['Vinkulelu'; 'Köysi'; 'Tennispallo'],8,Tarkistus,18.3.1978,1722,Katu,8.4.1989,Kissa,Pelastustie 4
+Turun RescueKeskus,1904,Kaapo,Edge,['Vinkulelu'; 'Tennispallo'; 'Köysi'],5,Leikkihetki,22.7.1974,1785,Roskis,28.11.1985,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Lauri,Eden,[],5,Piikitys,13.6.1991,3436,Roskis,5.2.1981,Undulaatti,Tampereentie 5
+Raaseporin rescue,1983,Untamo,Eazy,[],1,Tarkistus,15.7.1999,3814,Roskis,15.2.1990,Koira,Keskusta 2
+Raaseporin rescue,1983,Lauri,Kaapo,['Vinkulelu'],9,Lääkkeen anto,19.9.1976,2420,Sillanalus,7.2.1996,Koira,Keskusta 2
+Raaseporin rescue,1983,Mirjami,Ecco,['Tennispallo'],4,Piikitys,7.1.1970,3111,None,None,Undulaatti,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Ecko,['Köysi'],2,Leikkihetki,19.4.1976,4724,Roskis,3.7.1990,Kissa,Tampereentie 5
+Turun RescueKeskus,1904,Jaakko,Eddi,['Köysi'],5,Lääkkeen anto,2.7.1979,1422,Sillanalus,11.12.1999,Koira,Pelastustie 4
+Raaseporin rescue,1983,Olli,Eddy,['Tennispallo'; 'Vinkulelu'],6,Lääkkeen anto,21.4.1976,3197,Kauppakeskus,13.8.1992,Undulaatti,Keskusta 2
+Turun RescueKeskus,1904,Kaapo,Eddy,[],10,Lääkkeen anto,8.10.1990,1875,Sillanalus,27.11.1995,Koira,Pelastustie 4
+Raaseporin rescue,1983,Harju,Edgar,['Köysi'; 'Vinkulelu'; 'Tennispallo'],10,Piikitys,27.6.1980,4206,Katu,2.2.1997,Koira,Keskusta 2
+Tampereen pelastus,1918,Matti,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,13.2.1989,2646,Roskis,19.6.1988,Koira,Tampereentie 5
+Tampereen pelastus,1918,Ninni,Eddy,['Tennispallo'; 'Vinkulelu'],6,Lääkkeen anto,7.3.1992,4640,Kauppakeskus,13.8.1992,Undulaatti,Tampereentie 5
+Tampereen pelastus,1918,Lauri,Edge,['Tennispallo'; 'Köysi'; 'Vinkulelu'],4,Lääkkeen anto,16.7.1984,3436,Roskis,28.1.1996,Koira,Tampereentie 5
+Raaseporin rescue,1983,Lauri,Kaarina,['Köysi'],8,Leikkihetki,1.7.1976,2420,Kauppakeskus,16.4.1986,Kissa,Keskusta 2
+Tampereen pelastus,1918,Jaakko,Ecko,['Köysi'],2,Leikkihetki,27.6.1999,4724,Roskis,3.7.1990,Kissa,Tampereentie 5
+Turun RescueKeskus,1904,Jaakko,Edgar,['Köysi'],4,Lääkkeen anto,28.3.1985,1422,Roskis,4.1.1999,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kadi,[],6,Tarkistus,1.12.1998,1633,None,None,Kissa,Tampereentie 5
+Tampereen pelastus,1918,Ninni,Eddie,['Tennispallo'; 'Vinkulelu'; 'Köysi'],8,Leikkihetki,25.8.1986,4640,Sillanalus,12.2.1985,Koira,Tampereentie 5
+Tampereen pelastus,1918,Ninni,Kaarlo,[],2,Lääkkeen anto,25.9.1985,4640,Katu,4.1.1995,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Lauri,Ebony,['Köysi'; 'Vinkulelu'; 'Tennispallo'],8,Lääkkeen anto,13.2.1989,1662,Roskis,19.6.1988,Koira,Pelastustie 4
+Tampereen pelastus,1918,Ninni,Kafu,['Vinkulelu'; 'Tennispallo'; 'Köysi'],3,Tarkistus,20.4.1982,4640,Sillanalus,11.11.1997,Kissa,Tampereentie 5
+Turun RescueKeskus,1904,Kaapo,Kaasu,['Köysi'; 'Vinkulelu'],4,Leikkihetki,11.11.1987,1785,Roskis,24.9.1977,Undulaatti,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kaapo,['Vinkulelu'],9,Lääkkeen anto,11.3.1990,1633,Sillanalus,7.2.1996,Koira,Tampereentie 5
+Tampereen pelastus,1918,Jaakko,Kaasu,['Vinkulelu'],8,Leikkihetki,12.7.1980,4724,Roskis,24.12.1970,Koira,Tampereentie 5
+Turun RescueKeskus,1904,Jaakko,Eddy,['Tennispallo'; 'Köysi'; 'Vinkulelu'],9,Tarkistus,1.8.1974,1422,Katu,4.10.1970,Kissa,Pelastustie 4
+Tampereen pelastus,1918,Jaakko,Kadi,[],6,Lääkkeen anto,4.8.1994,1633,None,None,Kissa,Tampereentie 5
+Turun RescueKeskus,1904,Kaapo,Edgar,['Köysi'],4,Tarkistus,7.3.1998,1785,Roskis,4.1.1999,Undulaatti,Pelastustie 4
+Raaseporin rescue,1983,Mirjami,Ebba,['Köysi'; 'Tennispallo'],3,Piikitys,14.10.1997,3111,Kauppakeskus,19.3.1990,Kissa,Keskusta 2

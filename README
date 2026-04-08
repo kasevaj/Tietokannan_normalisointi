@@ -1,0 +1,23 @@
+📊 Tietokannan normalisointi (UNF → 4NF)
+📝 Tehtävän kuvaus
+
+Tämän projektin tavoitteena on normalisoida annettu tietokanta perusnormaalimuotojen mukaisesti:
+
+UNF (Unnormalized Form)
+1NF (First Normal Form)
+2NF (Second Normal Form)
+3NF (Third Normal Form)
+4NF (Fourth Normal Form)
+
+Lisäksi tarkastellaan:
+
+5NF (Fifth Normal Form)
+6NF (Sixth Normal Form)
+
+Huom: EKNF, BCNF, ETNF ja DKNF jätetään tehtävänannon mukaisesti tarkastelun ulkopuolelle.
+
+🎯 Tavoite
+Muuntaa alkuperäinen CSV-muotoinen tietokanta normalisoituun rakenteeseen
+Poistaa redundanssi ja riippuvuudet vaiheittain
+Perustella jokainen normalisointivaihe
+Arvioida mahdollisuus jatkaa normalisointia 5NF- ja 6NF-tasoille
